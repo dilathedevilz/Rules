@@ -1,0 +1,4 @@
+payload:
+  - IP-CIDR,202.93.17.0/24
+  - DST-PORT,7880
+  - DST-PORT,7881
